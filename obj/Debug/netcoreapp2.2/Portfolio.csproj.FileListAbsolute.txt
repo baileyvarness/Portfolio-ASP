@@ -1,0 +1,14 @@
+/Users/Bailey/Documents/Bootcamp/c_sharp_stack/Portfolio/bin/Debug/netcoreapp2.2/Portfolio.deps.json
+/Users/Bailey/Documents/Bootcamp/c_sharp_stack/Portfolio/bin/Debug/netcoreapp2.2/Portfolio.runtimeconfig.json
+/Users/Bailey/Documents/Bootcamp/c_sharp_stack/Portfolio/bin/Debug/netcoreapp2.2/Portfolio.runtimeconfig.dev.json
+/Users/Bailey/Documents/Bootcamp/c_sharp_stack/Portfolio/bin/Debug/netcoreapp2.2/Portfolio.dll
+/Users/Bailey/Documents/Bootcamp/c_sharp_stack/Portfolio/bin/Debug/netcoreapp2.2/Portfolio.pdb
+/Users/Bailey/Documents/Bootcamp/c_sharp_stack/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.csprojAssemblyReference.cache
+/Users/Bailey/Documents/Bootcamp/c_sharp_stack/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.csproj.CoreCompileInputs.cache
+/Users/Bailey/Documents/Bootcamp/c_sharp_stack/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.RazorAssemblyInfo.cache
+/Users/Bailey/Documents/Bootcamp/c_sharp_stack/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.RazorAssemblyInfo.cs
+/Users/Bailey/Documents/Bootcamp/c_sharp_stack/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.AssemblyInfoInputs.cache
+/Users/Bailey/Documents/Bootcamp/c_sharp_stack/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.AssemblyInfo.cs
+/Users/Bailey/Documents/Bootcamp/c_sharp_stack/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.RazorTargetAssemblyInfo.cache
+/Users/Bailey/Documents/Bootcamp/c_sharp_stack/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.dll
+/Users/Bailey/Documents/Bootcamp/c_sharp_stack/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.pdb
